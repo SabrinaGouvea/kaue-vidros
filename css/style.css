@@ -60,12 +60,12 @@ section {
 
 /* Seção Inicio */
 #home {
-  background: linear-gradient(
+  background-image: linear-gradient(
       to top,
       rgba(0, 0, 0, 0.4) 50%,
       rgba(0, 0, 0, 0.4) 50%
     ),
-    url("/kaue-vidros/img/glass-kaue.jpg");
+    url("img/glass-kaue.jpg");
   background-position: center;
   background-size: cover;
   min-height: 100vh;
