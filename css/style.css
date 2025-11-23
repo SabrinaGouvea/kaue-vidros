@@ -65,7 +65,7 @@ section {
       rgba(0, 0, 0, 0.4) 50%,
       rgba(0, 0, 0, 0.4) 50%
     ),
-    url("img/glass-kaue.jpg");
+    url("../img/glass-kaue.jpg");
   background-position: center;
   background-size: cover;
   min-height: 100vh;
