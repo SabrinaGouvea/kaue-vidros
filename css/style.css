@@ -60,7 +60,7 @@ section {
 
 /* Seção Inicio */
 #home {
-  background-image: linear-gradient(
+  background: linear-gradient(
       to top,
       rgba(0, 0, 0, 0.4) 50%,
       rgba(0, 0, 0, 0.4) 50%
